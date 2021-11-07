@@ -10,7 +10,7 @@
 
 👩‍💻 Useful resources - No docs yet
 
-🍿 Fun facts - Protein
+🍿 Fun facts - Our team on average, consumes enough caffine to kill a man
 
 🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
 
