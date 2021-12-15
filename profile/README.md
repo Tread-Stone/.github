@@ -2,7 +2,7 @@
 
 
 
-**2 Students @ Akron University**
+**Students @ Akron University**
 
 🙋‍♀️ A short introduction - Akron Students looking to collaborate on stuff related to our major
 
