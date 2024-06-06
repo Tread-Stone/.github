@@ -1,11 +1,9 @@
 ## Tread-Stone
 
-**Students @ Akron University**
+**Information Technologists**
 
-🙋‍♀️ A short introduction - Akron Students looking to collaborate on stuff related to our major
+A short introduction - Just trying to make the world a better place.
 
-Contribution guidelines - Anyone can contribute, sumbit a PR
+Contribution guidelines - Anyone can contribute, sumbit a PR.
 
-Useful resources - No docs yet
-
- Fun facts - Our team on average, consumes enough caffine to kill a man, 
+Fun facts - Our team, on average, consumes enough caffine to kill a man.
